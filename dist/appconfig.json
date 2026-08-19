@@ -1,0 +1,1 @@
+{"appName":"RS3 PvM Coach","description":"Screen-reading PvM mechanic and rotation coach for Alt1. Informational overlay only.","appUrl":"./index.html","configUrl":"./appconfig.json","iconUrl":"./icon.png","defaultWidth":500,"defaultHeight":720,"minWidth":360,"minHeight":500,"maxWidth":1000,"maxHeight":1200,"requestHandlers":[],"activators":[],"permissions":"pixel,overlay"}

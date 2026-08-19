@@ -1,0 +1,1 @@
+{"id":"boss-id","name":"Boss Name","version":1,"sourceNotes":[],"phases":[{"id":"p1","name":"Phase 1","rotation":[{"type":"mechanic","label":"Example mechanic","callout":"MOVE","priority":100}]}],"detectors":[]}
